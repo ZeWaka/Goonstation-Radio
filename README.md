@@ -6,5 +6,6 @@ Powered by:
 * IcecastKH
 * Zamujasa's HTML
 * GitHub Pages
+* VNC (boo RDP breaking shit)
 * DuckDNS
 * Cloudflare
