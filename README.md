@@ -1,6 +1,8 @@
 # Goonstation Radio
 A Project by ZeWaka - bringing you the ultimate in the SS13 audio experience.
 
+## Version 1.0.0
+
 Powered by:
 * butt
 * IcecastKH
