@@ -5,6 +5,10 @@ A Project by ZeWaka - bringing you the ultimate in the SS13 audio experience.
 
 #### How to use: Plain-Message-To-All the final product in INJECTOR
 
+#### Roadmap
+* Make code changes in Goonstation to enable persistent use via an ingame toggle
+* Audio request system / Discord bot hookup?
+
 Powered by:
 * butt
 * IcecastKH
