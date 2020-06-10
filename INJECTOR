@@ -1,0 +1,14 @@
+
+Raw:
+$("#goonRadio").remove();
+$("<div id='goonRadio' style='position: fixed; left: 0; top: 0; right: 80px; height: 40px; background: white; z-index: 99999999;'><iframe src='about:blank' style='width: 100%; height: 100%; border: none;'></iframe></div>").insertBefore("#messages");
+$("#goonRadio iframe").attr("src", "https://zewaka.github.io/Goonstation-Radio/index.html");
+
+Base64 Encoded:
+JCgiI2dvb25SYWRpbyIpLnJlbW92ZSgpOwokKCI8ZGl2IGlkPSdnb29uUmFkaW8nIHN0eWxlPSdwb3NpdGlvbjogZml4ZWQ7IGxlZnQ6IDA7IHRvcDogMDsgcmlnaHQ6IDgwcHg7IGhlaWdodDogNDBweDsgYmFja2dyb3VuZDogd2hpdGU7IHotaW5kZXg6IDk5OTk5OTk5Oyc+PGlmcmFtZSBzcmM9J2Fib3V0OmJsYW5rJyBzdHlsZT0nd2lkdGg6IDEwMCU7IGhlaWdodDogMTAwJTsgYm9yZGVyOiBub25lOyc+PC9pZnJhbWU+PC9kaXY+IikuaW5zZXJ0QmVmb3JlKCIjbWVzc2FnZXMiKTsKJCgiI2dvb25SYWRpbyBpZnJhbWUiKS5hdHRyKCJzcmMiLCAiaHR0cHM6Ly96ZXdha2EuZ2l0aHViLmlvL0dvb25zdGF0aW9uLVJhZGlvL2luZGV4Lmh0bWwiKTs=
+
+Injector:
+<span onclick='eval(atob("BASE64HERE")); return false;'>Goonstation Radio</span>
+
+Final Product:
+<span onclick='eval(atob("JCgiI2dvb25SYWRpbyIpLnJlbW92ZSgpOwokKCI8ZGl2IGlkPSdnb29uUmFkaW8nIHN0eWxlPSdwb3NpdGlvbjogZml4ZWQ7IGxlZnQ6IDA7IHRvcDogMDsgcmlnaHQ6IDgwcHg7IGhlaWdodDogNDBweDsgYmFja2dyb3VuZDogd2hpdGU7IHotaW5kZXg6IDk5OTk5OTk5Oyc+PGlmcmFtZSBzcmM9J2Fib3V0OmJsYW5rJyBzdHlsZT0nd2lkdGg6IDEwMCU7IGhlaWdodDogMTAwJTsgYm9yZGVyOiBub25lOyc+PC9pZnJhbWU+PC9kaXY+IikuaW5zZXJ0QmVmb3JlKCIjbWVzc2FnZXMiKTsKJCgiI2dvb25SYWRpbyBpZnJhbWUiKS5hdHRyKCJzcmMiLCAiaHR0cHM6Ly96ZXdha2EuZ2l0aHViLmlvL0dvb25zdGF0aW9uLVJhZGlvL2luZGV4Lmh0bWwiKTs=")); return false;'>Goonstation Radio</span>
