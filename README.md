@@ -5,7 +5,7 @@ A Project by ZeWaka - bringing you the ultimate in the SS13 audio experience.
 
 #### How to use: `Plain-Message-To-All` the final product in INJECTOR
 
-![](https://cdn.discordapp.com/attachments/298827721604071425/720861250304868403/goonradio.png)
+![](./GoonstationRadio.png)
 
 #### Roadmap
 * Make code changes in Goonstation to enable persistent use via an ingame toggle
